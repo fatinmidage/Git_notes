@@ -1,6 +1,7 @@
 # Git 学习笔记
 ## Git常用命令
 **git config** --global user.name  # 设置全局用户名
+
 **git config** --global user.email # 设置全局邮箱
 **git status** # 查看当前状态
 **git config user.name** # 查看用户名
