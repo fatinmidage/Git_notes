@@ -27,9 +27,9 @@
 **git reflog** # 查看所有的修改历史
 
 **git reset** # 返回至以前的版本
-> git reset --hard HEAD~
-> git reset --hard HEAD~~
-> git reset --hard 12jhk1
+- git reset --hard HEAD~
+- git reset --hard HEAD~~
+- git reset --hard 12jhk1
 
 **git checkout -- "文件全名"** # 用版本库里的版本替换工作区的版本
 
