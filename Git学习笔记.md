@@ -38,14 +38,14 @@
 # github相关
 **ssh-keygen -t rsa -C "youremail@example.com"**
 
-生成公钥文件，在 **/用户名/.ssh** 下
+>生成公钥文件，在 **/用户名/.ssh** 下
 
 **git remote add origin *git@github.com:fatinmidage/test.git***
 
-添加origin远程库
+>添加origin远程库
 
 **git branch -M main**
 
 **git push -u origin main**
 
-将本地版本库推送至远程库(origin)，只有首次推送需要使用-u
+>将本地版本库推送至远程库(origin)，只有首次推送需要使用-u
