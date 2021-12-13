@@ -34,11 +34,12 @@
 > *git commit -m "标记信息"**
 
 查看修改内容(未提交commit的，即暂存区的)
-> **git diff**
+
 >git diff HEAD -- 文件全名 # 查看特定文件的修改内容
 
 查看历史记录，简洁显示用"--pretty=oneline参数"
 > **git log**
+
 > **git log --pretty=oneline**
 
 查看所有的修改历史
