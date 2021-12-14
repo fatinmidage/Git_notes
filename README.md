@@ -73,5 +73,5 @@
 将本地版本库推送至远程库(origin)，只有首次推送需要使用-u
 >**git push -u origin main**
 
-从github克隆repo
+从github版本库克隆repo
 > **git clone git@github.com:xxxxxxxx.git**
